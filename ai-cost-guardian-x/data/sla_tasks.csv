@@ -1,9 +1,0 @@
-Task_ID,Task_Name,Assignee,Team,Priority,Planned_Hours,Completed_Hours,Deadline,SLA_Penalty_Per_Day,Status
-T001,API Integration Module,Ravi Kumar,Engineering,High,40,28,2024-04-02,5000,In Progress
-T002,Security Audit Report,Priya Nair,Security,Critical,20,8,2024-04-01,8000,In Progress
-T003,Database Migration,Arjun Singh,DevOps,High,60,30,2024-04-03,6000,In Progress
-T004,UI Dashboard Revamp,Meera Patel,Frontend,Medium,30,22,2024-04-04,3000,In Progress
-T005,Load Testing,Kiran Reddy,QA,High,25,10,2024-04-02,4000,In Progress
-T006,Documentation Update,Sneha Iyer,Engineering,Low,15,12,2024-04-05,1000,In Progress
-T007,Payment Gateway Fix,Rohit Sharma,Backend,Critical,35,10,2024-04-01,10000,In Progress
-T008,Mobile App Release,Anita Desai,Mobile,High,50,35,2024-04-03,7000,In Progress
