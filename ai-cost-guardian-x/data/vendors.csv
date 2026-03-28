@@ -1,0 +1,21 @@
+Vendor,Service,Monthly_Cost,Contract_End,Region
+ABC Tech,Cloud Infrastructure,50000,2025-06-30,North
+ABC Technologies,Cloud Infrastructure,52000,2025-09-30,North
+ABC Tech Solutions,Cloud Infrastructure,48000,2025-12-31,North
+XYZ Solutions,Cybersecurity,30000,2025-08-31,South
+XYZ Solution Pvt Ltd,Cybersecurity,31000,2026-01-31,South
+XYZ Secure Systems,Cybersecurity,29500,2025-11-30,South
+FastNet,Network Services,20000,2025-07-31,East
+FastNet Telecom,Network Services,21000,2026-03-31,East
+DataSync Corp,Data Management,15000,2025-10-31,West
+DataSync Inc,Data Management,16000,2025-12-31,West
+CloudBase Ltd,Cloud Storage,12000,2025-09-30,North
+CloudBase Technologies,Cloud Storage,11500,2025-11-30,North
+Nexus IT,IT Support,8000,2026-02-28,South
+Nexus Information Tech,IT Support,8500,2025-08-31,South
+SecureVault,Backup Services,9000,2025-10-31,East
+SecureVault Systems,Backup Services,9200,2026-01-31,East
+TechFlow,DevOps Tools,18000,2025-07-31,West
+TechFlow Solutions,DevOps Tools,17500,2025-12-31,West
+AlphaHost,Web Hosting,6000,2025-09-30,North
+AlphaHosting,Web Hosting,6200,2025-11-30,North
